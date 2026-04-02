@@ -21,7 +21,7 @@
 
 | Main Dashboard | Landmark Progress |
 |---|---|
-| ![Logo](https://github.com/musharaf04/Reel-Meter/blob/master/app_logo.jpg?raw=true) | *Add a screenshot here later!* |
+| ![Logo](https://github.com/musharaf04/Reel-Meter/blob/main/app_logo.jpg?raw=true) | *Add a screenshot here later!* |
 
 ## 🛠️ How it Works (Technical)
 
